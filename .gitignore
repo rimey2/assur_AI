@@ -1,0 +1,8 @@
+.venv/
+.packages/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
