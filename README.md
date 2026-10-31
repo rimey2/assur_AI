@@ -15,6 +15,6 @@
 ##  Chatbot basé sur une approche RAG ( Fichier, Excel, Duckdb)
 
 - RAG effectué sur le fichier excel. L'utilisateur pose une question
-- Le LLM recoit la questin et la transforme en requete SQL
+- Le LLM recoit la question et la transforme en requete SQL
 - La requete SQL est générée dans Duckdb
 - Le LLM renvoie une sur l'interface
